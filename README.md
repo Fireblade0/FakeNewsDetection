@@ -1,2 +1,2 @@
 To run file 
-Type Python "app.py" in terminal
+Type "Python app.py" in terminal
